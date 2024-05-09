@@ -1,3 +1,3 @@
 <?php
-echo "hola aws";
+echo "hola aws actualizado";
 ?>
